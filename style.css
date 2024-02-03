@@ -1,0 +1,107 @@
+.card-body{
+    height: 109px !important;
+}
+.card{
+    width: 270px;
+}
+.he1{
+    background-color: #393280;
+}
+.he1 p{
+    margin-bottom: 0;
+}
+.r1{
+    height: 100%;
+}
+.r1 h1{
+    color: #393280;
+    font-size: 400%;
+    font-weight: 800;
+    margin-top: 80px;
+}
+.baim img{
+    width: 100%;
+}
+.r1{
+    background: rgb(252,224,224);
+    background: linear-gradient(90deg, rgba(252,224,224,1) 8%, rgba(255,255,255,1) 46%);
+}
+.r2 h6,.r4 h6{
+    color: red;
+}
+.r2 img:hover{
+    transform: scale(1.04);
+}
+.cc{
+    color: #393280;
+}
+.bb{
+    font-weight: 700;
+}
+.r3{
+    background-color: #fce0e0;
+}
+.imm img{
+    width: 100%;
+}
+.b2 h5,h6{
+    color: #f26209;
+}
+.b2 a{
+    text-decoration: none;
+    color: black;
+}
+.bi{
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.bi1{
+    background-image: url(./images/Rectangle\ 5.png);
+}
+.bi2{
+    background-image: url(./images/Rectangle\ 5\ \(1\).png);
+}
+.bi3{
+    background-image: url(./images/Rectangle\ 5\ \(2\).png);
+}
+.bi4{
+    background-image: url(./images/Rectangle\ 5\ \(3\).png);
+}
+
+.r5 h4{
+    margin-top: 259px;
+}
+
+
+
+.bookimg{
+    border: 20px solid black;
+    width: 400px;
+    height: 530px;
+}
+.bookimg img{
+    width: 100%;
+    height: 100%;
+}
+.kk h2{
+    font-size: 50px;
+}
+.kk p{
+    font-size: 20px;
+}
+.kk img{
+    height: 200px;
+    width: 150px;
+}
+
+
+
+footer{
+    background-color: #fce0e0;
+}
+
+@media(max-width:450px){
+    .r1 h1{
+        margin-top: 10px;
+    }
+}
