@@ -104,4 +104,7 @@ footer{
     .r1 h1{
         margin-top: 10px;
     }
+    .r2 img{
+        width: 100%;
+    }
 }
